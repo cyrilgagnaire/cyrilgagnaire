@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm a Lead Data Consultant at [Arkahna](arkahna.io
 
 - Exploring deployment of Medallion Architecture at scale into Databricks using Terraform
 - Exploring Databricks Assets bundles
+- Using Terraform to deploy govern Fabric tenants and deploying assets at scale
 
 ## 🚀 Latest personal projects
 
@@ -28,8 +29,8 @@ Welcome to my GitHub profile! I'm a Lead Data Consultant at [Arkahna](arkahna.io
 
 ## 🌱 Fun Facts
 
-- 🏍️ Rebuilding a 1984 Kawasaki KZ750.
 - 🌐 Currently learning and exploring the world of Raspberry Pi.
+- 🎲 Building an Ultramarines Army for the Emperor and for Ultramar!
 
 *Thanks for visiting! Feel free to reach out if you'd like to connect or collaborate!*
 
